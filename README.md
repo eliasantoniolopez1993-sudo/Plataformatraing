@@ -1,0 +1,2 @@
+# Plataformatraing
+App trading 
